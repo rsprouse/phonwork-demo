@@ -1,3 +1,6 @@
 [submodule "assets/db_mri"]
 	path = assets/db_mri
 	url = https://github.com/rsprouse/phonwork-db_mri
+[submodule "assets/mg_mri"]
+	path = assets/mg_mri
+	url = https://github.com/rsprouse/phonwork-mg_mri
